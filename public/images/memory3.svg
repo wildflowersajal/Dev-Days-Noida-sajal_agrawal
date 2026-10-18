@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="100%" height="100%" fill="#fffaf3"/>
+  <rect x="120" y="80" width="560" height="340" rx="18" fill="#fffdfb"/>
+  <g transform="translate(180 120)">
+    <circle cx="55" cy="48" r="44" fill="#f1d66d"/>
+    <circle cx="118" cy="28" r="26" fill="#e7f0e5"/>
+    <circle cx="168" cy="62" r="20" fill="#f3b57f"/>
+    <circle cx="220" cy="50" r="24" fill="#e7f0e5"/>
+    <path d="M35 180c35-35 90-50 170-50 80 0 127 20 165 50" fill="none" stroke="#7a9d83" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="170" y="350" fill="#5e5a56" font-family="Segoe UI, sans-serif" font-size="26">First Garden Butterflies</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="100%" height="100%" fill="#fffaf3"/>
+  <rect x="120" y="80" width="560" height="340" rx="18" fill="#fffdfb"/>
+  <path d="M170 310c30-80 90-120 130-120s96 30 128 120" fill="#dfeecf"/>
+  <circle cx="310" cy="190" r="50" fill="#f2bf8d"/>
+  <circle cx="500" cy="182" r="46" fill="#efcf9b"/>
+  <text x="170" y="350" fill="#5e5a56" font-family="Segoe UI, sans-serif" font-size="26">Picnic by the Lake</text>
+</svg>
