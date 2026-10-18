@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import MemoryForm from './MemoryForm'
 
 function MemoryGarden({ memories, onAddMemory, onViewMemory, onEditMemory, onDeleteMemory }) {
   const [search, setSearch] = useState('')
